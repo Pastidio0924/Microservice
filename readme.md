@@ -36,9 +36,9 @@ This microservice provides two main functionalities:
 
 3. **Build the Project:**
         
-    Navigate to the project directory in your terminal and run:
+    Navigate to the project directory:
     ```bash
-    mvn clean package
+    cd Microservice
 4. **Run the Application:**
 
     The application can be run directly from VS Code or using the following command:
