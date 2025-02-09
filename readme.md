@@ -34,7 +34,7 @@ This microservice provides two main functionalities:
    ```bash
    git clone https://github.com/DarylPastidio/Microservice
 
-3. **Build the Project:**
+3. **Navigate the directory:**
         
     Navigate to the project directory:
     ```bash
