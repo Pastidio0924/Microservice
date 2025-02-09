@@ -43,7 +43,7 @@ This microservice provides two main functionalities:
 
     The application can be run directly from VS Code or using the following command:
     ```bash
-        mvn spring-boot:run
+    mvn spring-boot:run
     
 The application will start on port 8080 (default).
 
